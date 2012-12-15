@@ -1,4 +1,4 @@
 request-dejavu
 ==============
 
-request-dejavu
+A XMLHTTPRequest wrapper.
